@@ -1,6 +1,6 @@
 {
   "name": "eslint-find-rules",
-  "version": "1.14.0",
+  "version": "1.14.1",
   "description": "Find built-in ESLint rules you don't have in your custom config.",
   "main": "src/lib/rule-finder.js",
   "scripts": {
